@@ -23,7 +23,7 @@ https://mochiyaki.github.io/app5/
 ```
 
 ## earthquake house simulator - QUAKE-SIM v4.0
-https://earthquake-house-simulator-40258272502.us-west2.run.app
+clone earthquake-house-simulator folder and run it with your own APIs
 
 ---
 
