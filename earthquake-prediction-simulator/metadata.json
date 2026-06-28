@@ -1,0 +1,6 @@
+{
+  "name": "Earthquake Prediction Simulator",
+  "description": "An interactive 3D seismic propagation and early warning network simulator for the San Francisco Bay Area.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
