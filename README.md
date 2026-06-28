@@ -7,7 +7,7 @@ An interactive 3D earthquake prediction simulator for the San Francisco Bay Area
 ## earthquake prediction simulator - SeismicAlert
 https://earthquake-prediction-simulator-40258272502.us-west2.run.app/
 
-## earthquake simulator - San Francisco historical records
+## earthquake simulator - San Francisco historical records walkaround
 https://mochiyaki.github.io/app5/
 
 ```
