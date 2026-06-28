@@ -2,6 +2,9 @@
 
 An interactive 3D earthquake prediction simulator for the San Francisco Bay Area, rendered entirely in the browser with **Three.js**. The project lives in a single self-contained file (`index.html`) with no build step — open it and it runs.
 
+## earthquake prediction simulator
+https://earthquake-prediction-simulator-40258272502.us-west2.run.app/
+
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                          index.html                              │
