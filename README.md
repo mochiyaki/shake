@@ -5,7 +5,7 @@ An interactive 3D earthquake prediction simulator for the San Francisco Bay Area
 ![screenshot](https://raw.githubusercontent.com/mochiyaki/shake/master/quake_hayward.png)
 
 ## earthquake prediction simulator - SeismicAlert
-https://earthquake-prediction-simulator-40258272502.us-west2.run.app/
+clone earthquake-prediction-simulator folder and build it yourself
 
 ## earthquake simulator - San Francisco historical records walkaround
 https://mochiyaki.github.io/app5/
@@ -23,7 +23,7 @@ https://mochiyaki.github.io/app5/
 ```
 
 ## earthquake house simulator - QUAKE-SIM v4.0
-clone earthquake-house-simulator folder and run it with your own APIs
+clone earthquake-house-simulator-v4 folder, build it and and run it with your own API keys
 
 ---
 
